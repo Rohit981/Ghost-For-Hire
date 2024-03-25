@@ -1,0 +1,62 @@
+# Compiled Object Files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran Module Files
+*.mod
+
+# Compiled Static Libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ipa
+
+# Generated IDE Files
+*.xcodeproj
+*.xcworkspace
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# IDE Directories
+.vs/*
+
+# Binary Files
+Binaries/*
+Plugins/*/Binaries/*
+
+# Builds
+Build/*
+
+# Map Build Data
+*_BuiltData.uasset
+
+# Editor Saved Configuration Files
+Saved/*
+
+# Compiled Source Files
+Intermediate/*
+Plugins/*/Intermediate/*
+
+# Cache Files
+DerivedDataCache/*
